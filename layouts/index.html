@@ -1,0 +1,13 @@
+{{ partial "head" . }}
+<body><div class="wrapper">
+
+{{ partial "header" . }}
+
+{{ if eq .Site.Params.renderType "single" }}
+  {{ range .Data.Pages }}
+      {{ .Content }}
+  {{ end }}
+{{ end }}
+
+{{ partial "footer" . }}
+</div>{{ partial "js" . }}</body></html>

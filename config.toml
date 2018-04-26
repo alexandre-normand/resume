@@ -1,0 +1,9 @@
+baseURL = "http://tbd"
+languageCode = "en-us"
+title = "Alexandre Normand's Online Resume"
+theme = "hugo-sp-minimal"
+publishDir = "docs"
+
+[params]
+  themeStyle = "simple"
+  renderType = "single"
