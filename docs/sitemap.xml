@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tbd/post/resume/</loc>
+    <loc>https://alexandre-normand.github.io/resume/post/resume/</loc>
     <lastmod>2018-04-26T14:41:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tbd/</loc>
-    <lastmod>2018-04-26T14:41:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbd/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbd/post/</loc>
+    <loc>https://alexandre-normand.github.io/resume/</loc>
     <lastmod>2018-04-26T14:41:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tbd/tags/</loc>
+    <loc>https://alexandre-normand.github.io/resume/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandre-normand.github.io/resume/post/</loc>
+    <lastmod>2018-04-26T14:41:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandre-normand.github.io/resume/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alexandre Normand&#39;s Online Resume</title>
-    <link>http://tbd/post/</link>
+    <link>https://alexandre-normand.github.io/resume/post/</link>
     <description>Recent content in Posts on Alexandre Normand&#39;s Online Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Apr 2018 14:41:00 -0700</lastBuildDate>
     
-	<atom:link href="http://tbd/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexandre-normand.github.io/resume/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resume</title>
-      <link>http://tbd/post/resume/</link>
+      <link>https://alexandre-normand.github.io/resume/post/resume/</link>
       <pubDate>Thu, 26 Apr 2018 14:41:00 -0700</pubDate>
       
-      <guid>http://tbd/post/resume/</guid>
+      <guid>https://alexandre-normand.github.io/resume/post/resume/</guid>
       <description>Alexandre Normand Canadian Citizen, USA Green Card Holder • Github • Contact info provided separately
 Profile I&amp;rsquo;m a relatively experienced remote Java and Go developer with a great passion for making small differences in this world. I&amp;rsquo;m most comfortable writing backend but I&amp;rsquo;m willing and able to work on anything in order to reach a goal. I also like to make remote work fun and friendly using the incredible power of gifs and old school textual humor.</description>
     </item>

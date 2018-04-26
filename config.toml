@@ -1,4 +1,4 @@
-baseURL = "http://tbd"
+baseURL = "https://alexandre-normand.github.io/resume/"
 languageCode = "en-us"
 title = "Alexandre Normand's Online Resume"
 theme = "hugo-sp-minimal"
