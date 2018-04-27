@@ -7,7 +7,7 @@ date: 2018-04-26T14:41:00-07:00
 Canadian Citizen, USA Green Card Holder • [Github](https://github.com/alexandre-normand) • Contact info provided separately 
 
 ## Profile
-I'm a relatively experienced remote `Java` and `Go` developer with a great passion for making small differences in this world. I'm most comfortable writing backend but I'm willing and able to work on anything in order to reach a goal. I also like to make remote work fun and friendly using the incredible power of `gifs` and old school textual humor. 
+I'm an experienced remote `Java` and `Go` developer with a great passion for making small differences in this world. I'm most comfortable writing backend but I'm willing and able to work on anything in order to reach a goal. I also like to make remote work fun and friendly using the incredible power of `gifs` and old school textual humor. 
 
 ![Example of photoshop skills for remote ties](https://i.imgur.com/R4hfNk4.png)
 
@@ -20,8 +20,8 @@ I'm a relatively experienced remote `Java` and `Go` developer with a great passi
 ### San Francisco/Portland 2012 - 2017
 **Software Engineer**, ​Data Services.
 
-- This is the highlight of my “career” so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
-	- Developed new energy storage model that enables the business to scale and developed Map/Reduce jobs to produce insights in hbase served in real-time via `REST` services.
+- This is the highlight of my career so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
+	- Developed new energy storage model storing billions of usage reads per day with over 100 `TB` of data to enable the business to scale. Played an instrumental role in the design and implementation of the storage, ingest pipelines and services (`REST` apis). 
 	- Lead simplification efforts of Opower's second generation meter read storage architecture and ingest pipeline reducing operational costs and improving data availability times from what was previously several hours down to minutes.
 	- Developed operational command line tools in `Go` making it easy to download and use those (single binaries without dependencies readily built and hosted for non-developers). 
 
