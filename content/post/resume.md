@@ -40,8 +40,6 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 ## Education
 ### [University of Quebec](http://www.uqar.ca/)​, Rimouski, ​BSc Comp Sci (2004)
-- GPA: 3.77 / 4.30
-- 1st cycle scholarship award for excellent academic performance.
 
 ## Activities
 ### Open source
