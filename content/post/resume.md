@@ -18,7 +18,7 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 ### [![pluggy](https://i.imgur.com/NIq4pSH.png)](http://opower.com/)
 ### San Francisco/Portland 2012 - 2017
-**Software Engineer**, ​Data Services.
+**Senior Software Engineer**, ​Data Services.
 
 - This is the highlight of my career so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
 	- Developed new energy storage model storing billions of usage reads per day with over 100 `TB` of data to enable the business to scale. Played an instrumental role in the design and implementation of the storage, ingest pipelines and services (`REST` apis). 
