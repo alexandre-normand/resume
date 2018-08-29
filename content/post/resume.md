@@ -22,7 +22,7 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 - This is the highlight of my career so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
 	- Developed new energy storage model storing billions of usage reads per day with over 100 `TB` of data to enable the business to scale. Played an instrumental role in the design and implementation of the storage, ingest pipelines and services (`REST` apis). 
-	- Lead simplification efforts of Opower's second generation meter read storage architecture and ingest pipeline reducing operational costs and improving data availability times from what was previously several hours down to minutes.
+	- Lead simplification efforts of Opower's second generation meter read storage architecture and ingest pipeline reducing operational costs and improving data availability times from what was previously several hours down to minutes (at the rate of over `1.5 billion records/hour`).
 	- Developed operational command line tools in `Go` making it easy to download and use those (single binaries without dependencies readily built and hosted for non-developers). 
 
 ### [OZ Communications](https://www.crunchbase.com/organization/oz-communications)/[Nokia](http://www.nokia.com)​/[​Synchronica](http://www.synchronica.com)​ in a crazy ride of acquisitions, Montréal 2006-2012
