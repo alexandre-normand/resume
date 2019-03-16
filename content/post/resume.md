@@ -13,17 +13,19 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 ## Experience
 
-### [![fitbit](https://i.imgur.com/6k5dr7L.png)](https://fitbit.com)]
+### [![fitbit](https://i.imgur.com/6k5dr7L.png)](https://fitbit.com)
 ### Portland, October 2018 - present
 - Writing code to support the storage of all the steps you're taking with your tracker on your wrist. 
+
 
 ### ![Vanagon](https://www.dropbox.com/s/jzkq6htt6jzwan8/Wind%20Power.png?raw=1)
 ### Traveling in USA and Canada, October 2017 - October 2018
 - Spent 1 year on the road with the family in our VW Vanagon (aka Westy) and acquiring some world, less technical and slightly more social and mechanical experience.
 
+
 ### [![pluggy](https://i.imgur.com/NIq4pSH.png)](http://opower.com/)
 ### San Francisco/Portland 2012 - 2017
-**Senior Software Engineer**, ​Data Services.
+**Senior Software Engineer**, Data Services.
 
 - This is the highlight of my career so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
 	- Developed new energy storage model storing billions of usage reads per day with over 100 `TB` of data to enable the business to scale. Played an instrumental role in the design and implementation of the storage, ingest pipelines and services (`REST` apis). 
