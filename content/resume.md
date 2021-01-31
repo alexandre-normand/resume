@@ -15,7 +15,8 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 ## Experience
 
 ### [Fitbit](https://www.fitbit.com), Portland, October 2018 - present
-- Writing code to support the storage of all the steps you're taking with your tracker on your wrist. 
+- Had fun contributing to the new Fitbit Data Warehouse running in [GCP](https://cloud.google.com) using Dataflow, Airflow, BigQuery, Data Catalog. 
+- My proudest and more significant contribution was our access management slack app named _Sherlock Holmesboarding_. Sherlock integrated all of ldap (for getting managers), google groups (to review, add and remove access), Data Catalog (to list policy tags) and BigQuery (for inventory but also for archival of access requests) to make for a pretty nice and smile inducing experience to manage Data Warehouse access flows. 
 
 
 ### Traveling in USA and Canada, October 2017 - October 2018
@@ -48,9 +49,13 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 ## Activities
 ### Open source
-- I'm most proud of [Glukit](https://mygluk.it), which I developed over the course of several months in my attempt to educate fellow type 1 diabetics on the benefits of taking ownership and control over the disease. It's [written](https://github.com/alexandre-normand/glukit/) in `Go`, runs on the google app engine and includes a [OS X companion app]: [glukloader​](https://github.com/alexandre-normand/glukloader) written in `Swift`. ![glukit](https://farm1.staticflickr.com/961/39915912320_c97898ed67_z_d.jpg)
-- I founded and did the main development of a few other smaller projects: [slackscot](https://github.com/alexandre-normand/slackscot), [giddyup](https://github.com/alexandre-normand/giddyup), [bloodSheltie](https://github.com/alexandre-normand/bloodSheltie)​, [safekeeper](https://github.com/alexandre-normand/safekeeper)​, [moosificator](https://github.com/sexyideas/moosificator).
-- Contributor to the [google-go language plugin](https://github.com/mtoader/google-go-lang-idea-plugin)​ for IntelliJ IDEA.
+- I wrote and maintain a few slack-related projects including: 
+  * [Step Curry](https://github.com/alexandre-normand/stepcurry): Step Curry takes Fitbit step challenges to slack by allowing users to link their Fitbit
+  account and track steps for Fitbit users in a channel. I run and maintain a hosted version of Step Curry that can be installed via [this link](https://slack.com/oauth/v2/authorize?client_id=818949993232.874011914615&scope=channels:read,chat:write,commands,users.profile:read,users:read,groups:read,im:read,mpim:read&user_scope=).
+  * [Marco Poller](https://github.com/alexandre-normand/marcopoller): A simple slack polling app that can be self-hosted for enterprises having limitations on 3rd party apps. 
+  * [Slackscot](https://github.com/alexandre-normand/slackscot): A slack bot framework with built-in support for threading, message updating and test-friendly plugin API. 
+- I'm also proud of [Glukit](https://mygluk.it), which I developed over the course of several months in my attempt to educate fellow type 1 diabetics on the benefits of taking ownership and control over the disease. It's [written](https://github.com/alexandre-normand/glukit/) in `Go`, runs on the google app engine and includes a [OS X companion app]: [glukloader​](https://github.com/alexandre-normand/glukloader) written in `Swift`. ![glukit](https://farm1.staticflickr.com/961/39915912320_c97898ed67_z_d.jpg)
+- I founded and did the main development of a few other smaller projects: [giddyup](https://github.com/alexandre-normand/giddyup), [safekeeper](https://github.com/alexandre-normand/safekeeper)​, [moosificator](https://github.com/sexyideas/moosificator).
 - Contributor to various open source projects: [hbase, avro, sqoop, mrunit](https://issues.apache.org/jira/browse/SQOOP-1032?jql=assignee%20in%20(alexandre.normand)), [hannibal​](https://github.com/sentric/hannibal), [gstring-maven-plugin](https://github.com/gstring-maven-plugin/gstring-maven-plugin/commits/master)​, [kiji](https://github.com/kijiproject/kiji-schema),​ [unzipit](https://github.com/c4milo/unzipit)​ (go package), [golang itself​](https://github.com/golang/go/blob/ceda47d08adaa1fa851c2aa52d511ac9430c4a33/CONTRIBUTORS#L106).
 
 ### Photography
