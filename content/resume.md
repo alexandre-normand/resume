@@ -34,15 +34,12 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 ### [OZ Communications](https://www.crunchbase.com/organization/oz-communications)/[Nokia](http://www.nokia.com)​/[​Synchronica](http://www.synchronica.com)​ in a crazy ride of acquisitions, Montréal 2006-2012
 **Java Software Developer**, ​Nokia Messaging Gateways serving more than 7M users worldwide.
 
-- Received an “Exceptional” performance review rating for positivism and volunteering to lead several challenging problem-solving efforts (2010). I think that means people acknowledged I did good work.
-- Improved stability and performance of highly visible features such as push email notifications and `IMAP`/`POP3` mailbox polling.
-- Reduced bugs and scalability issues by writing continuous functional test automation scripts and load test scripts.
-- Responsible for the implementation of complex SMS interoperability using the SMPP protocol. This enabled easy and seamless communication between users of OZ’s messaging technology and user’s of any mobile phone.
+- This feels like ages ago, before everyone had a smartphone. I worked on email and instant messaging gateways that were used by AT&T and Verizon (before smartphones made those obsolete). 
 
 ### [CGI Group Inc.](http://www.cgi.com/)​, Montréal 2004-2006
 **Java Consultant**, ​Specialist for [Bell Canada](http://www.bell.ca/)​, Canada's largest telecommunications company, not that it matters.
 
-- It was a long time ago now but this was a fun first experience where I was given autonomy and responsibility designing and implementing the backend for the SSO security layer and order processing of the relaunched [bell.ca](http://bell.ca).
+- This was a fun first experience where I was given autonomy and responsibility designing and implementing the backend for the SSO security layer and order processing of the relaunched [bell.ca](http://bell.ca).
 
 ## Education
 ### [University of Quebec](http://www.uqar.ca/)​, Rimouski, ​BSc Comp Sci (2004)
