@@ -47,11 +47,12 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 ## Activities
 ### Open source
 - I wrote and maintain a few slack-related projects including: 
-  * [Step Curry](https://github.com/alexandre-normand/stepcurry): Step Curry takes Fitbit step challenges to slack by allowing users to link their Fitbit
-  account and track steps for Fitbit users in a channel. I run and maintain a hosted version of Step Curry that can be installed via [this link](https://slack.com/oauth/v2/authorize?client_id=818949993232.874011914615&scope=channels:read,chat:write,commands,users.profile:read,users:read,groups:read,im:read,mpim:read&user_scope=).
+  * [Step Curry](https://github.com/alexandre-normand/stepcurry): Step Curry takes Fitbit step challenges to slack by linking their Fitbit account and tracking steps  in a channel. I run and maintain a hosted version of Step Curry that can be installed via [this link](https://slack.com/oauth/v2/authorize?client_id=818949993232.874011914615&scope=channels:read,chat:write,commands,users.profile:read,users:read,groups:read,im:read,mpim:read&user_scope=).
   * [Marco Poller](https://github.com/alexandre-normand/marcopoller): A simple slack polling app that can be self-hosted for enterprises having limitations on 3rd party apps. 
   * [Slackscot](https://github.com/alexandre-normand/slackscot): A slack bot framework with built-in support for threading, message updating and test-friendly plugin API. 
-- I'm also proud of [Glukit](https://mygluk.it), a `Go` web application which I developed over the course of several months in my attempt to mix behavioral science and diabetes management to encourage fellow type 1 diabetics to take ownership and control over the disease. 
+- [Glukit](https://mygluk.it): a `Go` project developed to attempt to mix behavioral science and diabetes management.
+
+  ![glukit](https://farm1.staticflickr.com/961/39915912320_c97898ed67_z_d.jpg)
 - I founded and did the main development of a few other smaller projects: [giddyup](https://github.com/alexandre-normand/giddyup), [safekeeper](https://github.com/alexandre-normand/safekeeper)​, [landler](https://github.com/alexandre-normand/landler).
 - Occasional contributor to open source projects: [hbase, avro, sqoop, mrunit](https://issues.apache.org/jira/browse/SQOOP-1032?jql=assignee%20in%20(alexandre.normand)), [hannibal​](https://github.com/sentric/hannibal), [gstring-maven-plugin](https://github.com/gstring-maven-plugin/gstring-maven-plugin/commits/master)​, [kiji](https://github.com/kijiproject/kiji-schema),​ [unzipit](https://github.com/c4milo/unzipit)​ (go package), [golang itself​](https://github.com/golang/go/blob/ceda47d08adaa1fa851c2aa52d511ac9430c4a33/CONTRIBUTORS#L106).
 
