@@ -29,7 +29,6 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 - This is the highlight of my career so far. I’ve made a lot of friends at `Opower` but I also gained confidence, skills and accomplished many things I’m proud of. More specifically:
 	- Developed new energy storage model storing billions of usage reads per day with over 100 `TB` of data to enable the business to scale. Played an instrumental role in the design and implementation of the storage, ingest pipelines and services (`REST` apis). 
 	- Lead simplification efforts of Opower's second generation meter read storage architecture and ingest pipeline reducing operational costs and improving data availability times from what was previously several hours down to minutes (at the rate of over `1.5 billion records/hour`).
-	- Developed operational command line tools in `Go` making it easy to download and use those (single binaries without dependencies readily built and hosted for non-developers). 
 
 ### [OZ Communications](https://www.crunchbase.com/organization/oz-communications)/[Nokia](http://www.nokia.com)​/[​Synchronica](http://www.synchronica.com)​ in a crazy ride of acquisitions, Montréal 2006-2012
 **Java Software Developer**, ​Nokia Messaging Gateways serving more than 7M users worldwide.
@@ -39,7 +38,7 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 ### [CGI Group Inc.](http://www.cgi.com/)​, Montréal 2004-2006
 **Java Consultant**, ​Specialist for [Bell Canada](http://www.bell.ca/)​, Canada's largest telecommunications company, not that it matters.
 
-- This was a fun first experience where I was given autonomy and responsibility designing and implementing the backend for the SSO security layer and order processing of the relaunched [bell.ca](http://bell.ca).
+- This was a fun first experience where I had the opportunity to design and implement the SSO security layer and order fulfillment of the relaunched [bell.ca](http://bell.ca).
 
 ## Education
 ### [University of Quebec](http://www.uqar.ca/)​, Rimouski, ​BSc Comp Sci (2004)
