@@ -14,7 +14,10 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 
 ## Experience
 
-### [Fitbit](https://www.fitbit.com), Portland, October 2018 - present
+### [Datadog](http://datadoghq.com), Portland, April 2021 - present
+- Story is the writing.
+
+### [Fitbit](https://www.fitbit.com), Portland, October 2018 - March 2021
 - Had fun contributing to the new Fitbit Data Warehouse running in [GCP](https://cloud.google.com) using Dataflow, Airflow, BigQuery, Data Catalog. 
 - My proudest and more significant contribution was our access management slack app named _Sherlock Holmesboarding_. Sherlock integrated all of ldap (for getting managers), google groups (to review, add and remove access), Data Catalog (to list policy tags) and BigQuery (for inventory but also for archival of access requests) to make for a pretty nice and smile inducing experience to manage Data Warehouse access flows. 
 
