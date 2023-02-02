@@ -15,7 +15,7 @@ I'm an experienced remote `Java` and `Go` developer with a great passion for mak
 ## Experience
 
 ### [Datadog](http://datadoghq.com), Portland, April 2021 - present
-- Story is the writing.
+- Story in the writing.
 
 ### [Fitbit](https://www.fitbit.com), Portland, October 2018 - March 2021
 - Had fun contributing to the new Fitbit Data Warehouse running in [GCP](https://cloud.google.com) using Dataflow, Airflow, BigQuery, Data Catalog. 
